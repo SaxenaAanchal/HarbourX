@@ -1063,7 +1063,7 @@ h2.sky {
   position: static;
   height: 100%;
   float: none;
-  background-image: url("../images/chinaDrone4.jpg");
+  background-image: url("../images/chinaDrone.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1090,7 +1090,7 @@ h2.sky {
   position: static;
   height: 100%;
   float: none;
-  background-image: url("../images/gravity1.webp");
+  background-image: url("../images/gravity11.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1126,7 +1126,7 @@ h2.sky {
   position: static;
   height: 100%;
   float: none;
-  background-image: url("../images/hot3.png");
+  background-image: url("../images/hot3.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1164,7 +1164,7 @@ h2.sky {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background-image: url("../images/chinaDrone8.webp");
+  background-image: url("../images/chinaDrone8.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1197,7 +1197,7 @@ h2.sky {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background-image: url("../images/gravity2.webp");
+  background-image: url("../images/gravity2.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1274,7 +1274,7 @@ h2.sky {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background-image: url("../images/vr3.png");
+  background-image: url("../images/vr3.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
